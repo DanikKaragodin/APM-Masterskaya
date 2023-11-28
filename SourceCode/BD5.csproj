@@ -1,0 +1,319 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{3952BA58-4F7B-4F1F-AC8C-F0AA3A9048C0}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>BD5</RootNamespace>
+    <AssemblyName>BD5</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Bcl.AsyncInterfaces, Version=6.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.Bcl.AsyncInterfaces.6.0.0\lib\net461\Microsoft.Bcl.AsyncInterfaces.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1586.0\lib\net40\Microsoft.ReportViewer.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.DataVisualization, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1586.0\lib\net40\Microsoft.ReportViewer.DataVisualization.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Design, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1586.0\lib\net40\Microsoft.ReportViewer.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.ProcessingObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1586.0\lib\net40\Microsoft.ReportViewer.ProcessingObjectModel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WebForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.ReportViewer.WebForms.10.0.40219.1\lib\Microsoft.ReportViewer.WebForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1586.0\lib\net40\Microsoft.ReportViewer.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Types, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.SqlServer.Types.14.0.314.76\lib\net40\Microsoft.SqlServer.Types.dll</HintPath>
+    </Reference>
+    <Reference Include="ReportPortal.Client, Version=3.4.1.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>packages\ReportPortal.Client.3.4.1\lib\net462\ReportPortal.Client.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Buffers.4.5.1\lib\net461\System.Buffers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core" />
+    <Reference Include="System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Memory.4.5.4\lib\net461\System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors, Version=4.1.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\System.Numerics.Vectors.4.5.0\lib\net46\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\System.Runtime.CompilerServices.Unsafe.6.0.0\lib\net461\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Text.Encodings.Web, Version=6.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Text.Encodings.Web.6.0.0\lib\net461\System.Text.Encodings.Web.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Text.Json, Version=6.0.0.6, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Text.Json.6.0.6\lib\net461\System.Text.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.Tasks.Extensions, Version=4.2.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Threading.Tasks.Extensions.4.5.4\lib\net461\System.Threading.Tasks.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ValueTuple, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.ValueTuple.4.5.0\lib\net47\System.ValueTuple.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Defects\Defects.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Defects\Defects.Designer.cs">
+      <DependentUpon>Defects.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Defects\DefectsReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Defects\DefectsReport.Designer.cs">
+      <DependentUpon>DefectsReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Defects\DefectsTable.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Defects\DefectsTable.Designer.cs">
+      <DependentUpon>DefectsTable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Guaranty\Guaranty.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Guaranty\Guaranty.Designer.cs">
+      <DependentUpon>Guaranty.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Guaranty\GuarantyReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Guaranty\GuarantyReport.Designer.cs">
+      <DependentUpon>GuarantyReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Guaranty\GuarantyTable.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Guaranty\GuarantyTable.Designer.cs">
+      <DependentUpon>GuarantyTable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Detail\Detail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Detail\Detail.Designer.cs">
+      <DependentUpon>Detail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Detail\DetailReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Detail\DetailReport.Designer.cs">
+      <DependentUpon>DetailReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Detail\DetailTable.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Detail\DetailTable.Designer.cs">
+      <DependentUpon>DetailTable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Master\MasterReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Master\MasterReport.Designer.cs">
+      <DependentUpon>MasterReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Master\MasterTable.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Master\MasterTable.Designer.cs">
+      <DependentUpon>MasterTable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Master\Master.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Master\Master.Designer.cs">
+      <DependentUpon>Master.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Client\Client.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Client\Client.Designer.cs">
+      <DependentUpon>Client.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Client\ClientTable.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Client\ClientTable.Designer.cs">
+      <DependentUpon>ClientTable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SqlServerTypes\Loader.cs" />
+    <Compile Include="Client\ClientReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Client\ClientReport.Designer.cs">
+      <DependentUpon>ClientReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="МастерскаяDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>МастерскаяDataSet.xsd</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Defects\Defects.rdlc" />
+    <EmbeddedResource Include="Defects\Defects.resx">
+      <DependentUpon>Defects.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Defects\DefectsReport.resx">
+      <DependentUpon>DefectsReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Defects\DefectsTable.resx">
+      <DependentUpon>DefectsTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Guaranty\Guaranty.rdlc" />
+    <EmbeddedResource Include="Guaranty\Guaranty.resx">
+      <DependentUpon>Guaranty.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Guaranty\GuarantyReport.resx">
+      <DependentUpon>GuarantyReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Guaranty\GuarantyTable.resx">
+      <DependentUpon>GuarantyTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Detail\Detail.rdlc" />
+    <EmbeddedResource Include="Detail\Detail.resx">
+      <DependentUpon>Detail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Detail\DetailReport.resx">
+      <DependentUpon>DetailReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Detail\DetailTable.resx">
+      <DependentUpon>DetailTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Master\Master.rdlc" />
+    <EmbeddedResource Include="Master\MasterReport.resx">
+      <DependentUpon>MasterReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Master\MasterTable.resx">
+      <DependentUpon>MasterTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Master\Master.resx">
+      <DependentUpon>Master.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Client\Client.rdlc" />
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Client\Client.resx">
+      <DependentUpon>Client.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Client\ClientTable.resx">
+      <DependentUpon>ClientTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Client\ClientReport.resx">
+      <DependentUpon>ClientReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="МастерскаяDataSet.xsc">
+      <DependentUpon>МастерскаяDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="МастерскаяDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>МастерскаяDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="МастерскаяDataSet.xss">
+      <DependentUpon>МастерскаяDataSet.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="SqlServerTypes\readme.htm" />
+    <Content Include="SqlServerTypes\x64\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x64\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Import Project="packages\System.Text.Json.6.0.6\build\System.Text.Json.targets" Condition="Exists('packages\System.Text.Json.6.0.6\build\System.Text.Json.targets')" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>Данный проект ссылается на пакеты NuGet, отсутствующие на этом компьютере. Используйте восстановление пакетов NuGet, чтобы скачать их.  Дополнительную информацию см. по адресу: http://go.microsoft.com/fwlink/?LinkID=322105. Отсутствует следующий файл: {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('packages\System.Text.Json.6.0.6\build\System.Text.Json.targets')" Text="$([System.String]::Format('$(ErrorText)', 'packages\System.Text.Json.6.0.6\build\System.Text.Json.targets'))" />
+  </Target>
+</Project>

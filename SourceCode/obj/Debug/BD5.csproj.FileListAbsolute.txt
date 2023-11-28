@@ -1,0 +1,292 @@
+C:\Users\Danik\source\repos\BD5\bin\Debug\BD5.exe.config
+C:\Users\Danik\source\repos\BD5\bin\Debug\BD5.exe
+C:\Users\Danik\source\repos\BD5\bin\Debug\BD5.pdb
+C:\Users\Danik\source\repos\BD5\obj\Debug\BD5.csproj.AssemblyReference.cache
+C:\Users\Danik\source\repos\BD5\obj\Debug\BD5.Form1.resources
+C:\Users\Danik\source\repos\BD5\obj\Debug\BD5.Form2.resources
+C:\Users\Danik\source\repos\BD5\obj\Debug\BD5.Form3.resources
+C:\Users\Danik\source\repos\BD5\obj\Debug\BD5.Form4.resources
+C:\Users\Danik\source\repos\BD5\obj\Debug\BD5.Properties.Resources.resources
+C:\Users\Danik\source\repos\BD5\obj\Debug\BD5.csproj.GenerateResource.cache
+C:\Users\Danik\source\repos\BD5\obj\Debug\BD5.csproj.CoreCompileInputs.cache
+C:\Users\Danik\source\repos\BD5\obj\Debug\BD5.exe
+C:\Users\Danik\source\repos\BD5\obj\Debug\BD5.pdb
+C:\Users\Danik\source\repos\BD6\bin\Debug\BD5.exe.config
+C:\Users\Danik\source\repos\BD6\bin\Debug\BD5.exe
+C:\Users\Danik\source\repos\BD6\bin\Debug\BD5.pdb
+C:\Users\Danik\source\repos\BD6\obj\Debug\BD5.csproj.AssemblyReference.cache
+C:\Users\Danik\source\repos\BD6\obj\Debug\BD5.Form1.resources
+C:\Users\Danik\source\repos\BD6\obj\Debug\BD5.Form2.resources
+C:\Users\Danik\source\repos\BD6\obj\Debug\BD5.Form3.resources
+C:\Users\Danik\source\repos\BD6\obj\Debug\BD5.Form4.resources
+C:\Users\Danik\source\repos\BD6\obj\Debug\BD5.Form6.resources
+C:\Users\Danik\source\repos\BD6\obj\Debug\BD5.Properties.Resources.resources
+C:\Users\Danik\source\repos\BD6\obj\Debug\BD5.csproj.GenerateResource.cache
+C:\Users\Danik\source\repos\BD6\obj\Debug\BD5.csproj.CoreCompileInputs.cache
+C:\Users\Danik\source\repos\BD6\obj\Debug\BD5.exe
+C:\Users\Danik\source\repos\BD6\obj\Debug\BD5.pdb
+C:\Users\Danik\source\repos\BD6\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Danik\source\repos\BD6\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Danik\source\repos\BD6\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Danik\source\repos\BD6\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Danik\source\repos\BD6\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Danik\source\repos\BD6\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Danik\source\repos\BD6\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Danik\source\repos\BD6\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Danik\source\repos\BD6\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Danik\source\repos\BD6\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Danik\source\repos\BD6\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Danik\source\repos\BD6\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Danik\source\repos\BD6\bin\Debug\ReportPortal.Client.dll
+C:\Users\Danik\source\repos\BD6\bin\Debug\System.Buffers.dll
+C:\Users\Danik\source\repos\BD6\bin\Debug\System.Memory.dll
+C:\Users\Danik\source\repos\BD6\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Danik\source\repos\BD6\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Danik\source\repos\BD6\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Danik\source\repos\BD6\bin\Debug\System.Text.Json.dll
+C:\Users\Danik\source\repos\BD6\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Danik\source\repos\BD6\bin\Debug\System.ValueTuple.dll
+C:\Users\Danik\source\repos\BD6\bin\Debug\EnvDTE.dll
+C:\Users\Danik\source\repos\BD6\bin\Debug\stdole.dll
+C:\Users\Danik\source\repos\BD6\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Danik\source\repos\BD6\bin\Debug\ReportPortal.Client.xml
+C:\Users\Danik\source\repos\BD6\bin\Debug\System.Buffers.xml
+C:\Users\Danik\source\repos\BD6\bin\Debug\System.Memory.xml
+C:\Users\Danik\source\repos\BD6\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Danik\source\repos\BD6\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Danik\source\repos\BD6\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Danik\source\repos\BD6\bin\Debug\System.Text.Json.xml
+C:\Users\Danik\source\repos\BD6\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Danik\source\repos\BD6\bin\Debug\System.ValueTuple.xml
+C:\Users\Danik\source\repos\BD6\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Danik\source\repos\BD6\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Danik\source\repos\BD6\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Danik\source\repos\BD6\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Danik\source\repos\BD6\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Danik\source\repos\BD6\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Danik\source\repos\BD6\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Danik\source\repos\BD6\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Danik\source\repos\BD6\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Danik\source\repos\BD6\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Danik\source\repos\BD6\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Danik\source\repos\BD6\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Danik\source\repos\BD6\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Danik\source\repos\BD6\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Danik\source\repos\BD6\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Danik\source\repos\BD6\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Danik\source\repos\BD6\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Danik\source\repos\BD6\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Danik\source\repos\BD6\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Danik\source\repos\BD6\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Danik\source\repos\BD6\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Danik\source\repos\BD6\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Danik\source\repos\BD6\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Danik\source\repos\BD6\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Danik\source\repos\BD6\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Danik\source\repos\BD6\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Danik\source\repos\BD6\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Danik\source\repos\BD6\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Danik\source\repos\BD6\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Danik\source\repos\BD6\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Danik\source\repos\BD6\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Danik\source\repos\BD6\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Danik\source\repos\BD6\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Danik\source\repos\BD6\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Danik\source\repos\BD6\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Danik\source\repos\BD6\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Danik\source\repos\BD6\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Danik\source\repos\BD6\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Danik\source\repos\BD6\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Danik\source\repos\BD6\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Danik\source\repos\BD6\obj\Debug\BD5.Form7.resources
+C:\Users\Danik\source\repos\BD6\obj\Debug\BD5.csproj.CopyComplete
+C:\Users\Danik\source\repos\BD6\obj\Debug\BD5.Form5.resources
+C:\Users\Danik\source\repos\BD6\obj\Debug\BD5.Form5_2.resources
+C:\Users\Danik\source\repos\BD6\obj\Debug\BD5.Form8.resources
+C:\Users\Danik\source\repos\BD6\obj\Debug\BD5.Form9.resources
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov2\obj\Debug\BD5.csproj.AssemblyReference.cache
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov2\obj\Debug\BD5.MainForm.resources
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov2\obj\Debug\BD5.Client.resources
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov2\obj\Debug\BD5.ClientTable.resources
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov2\obj\Debug\BD5.ClientReport.resources
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov2\obj\Debug\BD5.Properties.Resources.resources
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov2\obj\Debug\BD5.csproj.GenerateResource.cache
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov2\obj\Debug\BD5.csproj.CoreCompileInputs.cache
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov2\obj\Debug\BD5.exe
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov2\obj\Debug\BD5.pdb
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov2\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov2\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov2\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov2\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov2\bin\Debug\BD5.exe.config
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov2\bin\Debug\BD5.exe
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov2\bin\Debug\BD5.pdb
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov2\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov2\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov2\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov2\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov2\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov2\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov2\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov2\bin\Debug\ReportPortal.Client.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov2\bin\Debug\System.Buffers.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov2\bin\Debug\System.Memory.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov2\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov2\bin\Debug\System.Text.Json.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov2\bin\Debug\System.ValueTuple.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov2\bin\Debug\EnvDTE.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov2\bin\Debug\stdole.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov2\bin\Debug\ReportPortal.Client.xml
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov2\bin\Debug\System.Buffers.xml
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov2\bin\Debug\System.Memory.xml
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov2\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov2\bin\Debug\System.Text.Json.xml
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov2\bin\Debug\System.ValueTuple.xml
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov2\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov2\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov2\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov2\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov2\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov2\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov2\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov2\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov2\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov2\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov2\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov2\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov2\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov2\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov2\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov2\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov2\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov2\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov2\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov2\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov2\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov2\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov2\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov2\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov2\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov2\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov2\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov2\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov2\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov2\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov2\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov2\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov2\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov2\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov2\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov2\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov2\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov2\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov2\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov2\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov2\obj\Debug\BD5.csproj.CopyComplete
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov\bin\Debug\BD5.exe.config
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov\bin\Debug\BD5.exe
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov\bin\Debug\BD5.pdb
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov\bin\Debug\ReportPortal.Client.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov\bin\Debug\System.Buffers.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov\bin\Debug\System.Memory.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov\bin\Debug\System.Text.Json.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov\bin\Debug\System.ValueTuple.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov\bin\Debug\EnvDTE.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov\bin\Debug\stdole.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov\bin\Debug\ReportPortal.Client.xml
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov\bin\Debug\System.Buffers.xml
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov\bin\Debug\System.Memory.xml
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov\bin\Debug\System.Text.Json.xml
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov\bin\Debug\System.ValueTuple.xml
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov\obj\Debug\BD5.csproj.AssemblyReference.cache
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov\obj\Debug\BD5.Guaranty.resources
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov\obj\Debug\BD5.GuarantyReport.resources
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov\obj\Debug\BD5.GuarantyTable.resources
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov\obj\Debug\BD5.Detail.resources
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov\obj\Debug\BD5.DetailReport.resources
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov\obj\Debug\BD5.DetailTable.resources
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov\obj\Debug\BD5.MasterReport.resources
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov\obj\Debug\BD5.MasterTable.resources
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov\obj\Debug\BD5.Master.resources
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov\obj\Debug\BD5.MainForm.resources
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov\obj\Debug\BD5.Client.resources
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov\obj\Debug\BD5.ClientTable.resources
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov\obj\Debug\BD5.Properties.Resources.resources
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov\obj\Debug\BD5.ClientReport.resources
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov\obj\Debug\BD5.csproj.GenerateResource.cache
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov\obj\Debug\BD5.csproj.CoreCompileInputs.cache
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov\obj\Debug\BD5.csproj.CopyComplete
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov\obj\Debug\BD5.exe
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov\obj\Debug\BD5.pdb
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov\obj\Debug\BD5.Defects.resources
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov\obj\Debug\BD5.DefectsReport.resources
+C:\Users\Danik\Documents\3 Kurs\BIBD\Kursov\obj\Debug\BD5.DefectsTable.resources
